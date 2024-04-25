@@ -28,7 +28,7 @@
     color: gray;
 }
 
-.em-destaque { /* modificador */
+.em__destaque--active { /* modificador */
     border: 2px solid gold;
     padding: 8px;
     background-color: #ffff42;

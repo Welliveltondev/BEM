@@ -16,7 +16,7 @@
 .produtos .produto__descicao {
   color: gray;
 }
-.produtos .em__destaque {
+.produtos .em__destaque--active {
   border: 2px solid gold;
   padding: 8px;
   background-color: #ffff42;
